@@ -1,4 +1,4 @@
-//@version=6
+// @version=6
 // Copyright (c) 2021-present, Alex Orekhov (everget)
 // HalfTrend script may be freely distributed under the terms of the GPL-3.0 license.
 indicator('HalfTrend', overlay = true)

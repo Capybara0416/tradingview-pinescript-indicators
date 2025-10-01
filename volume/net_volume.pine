@@ -1,4 +1,4 @@
-//@version=3
+// @version=3
 // Copyright (c) 2019-present, Alex Orekhov (everget)
 // Net Volume script may be freely distributed under the terms of GPL-3.0 license.
 study("Net Volume", precision=0)

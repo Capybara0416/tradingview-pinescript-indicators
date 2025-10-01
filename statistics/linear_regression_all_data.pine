@@ -1,4 +1,4 @@
-//@version=4
+// @version=4
 // Copyright (c) 2020-present, Alex Orekhov (everget)
 // Linear Regression (All Data) script may be freely distributed under the terms of the GPL-3.0 license.
 var int MAX_BARS_BACK = 5000

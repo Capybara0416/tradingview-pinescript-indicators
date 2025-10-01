@@ -1,5 +1,4 @@
-//@version=3
-// Copyright (c) 2019-present, Alex Orekhov (everget)
+// @version=3
 study("Quarters", overlay=true)
 
 transparency = input(title="Transparency", type=integer, defval=88, minval=0, maxval=100)

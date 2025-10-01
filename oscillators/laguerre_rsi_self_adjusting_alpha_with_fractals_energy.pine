@@ -1,5 +1,4 @@
-//@version=3
-// Copyright (c) 2018-present, Alex Orekhov (everget)
+// @version=3
 // Laguerre RSI (Self Adjusting Alpha with Fractals Energy) script may be freely distributed under the terms of the GPL-3.0 license.
 study("Laguerre RSI (Self Adjusting Alpha with Fractals Energy)", shorttitle="LRSI")
 

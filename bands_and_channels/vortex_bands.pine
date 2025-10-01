@@ -1,6 +1,4 @@
-//@version=4
-// Copyright (c) 2020-present, Alex Orekhov (everget)
-// Vortex Bands script may be freely distributed under the terms of the GPL-3.0 license.
+// @version=4
 study("Vortex Bands", shorttitle="VB", overlay=true)
 
 length = input(title="Length", type=input.integer, defval=20)

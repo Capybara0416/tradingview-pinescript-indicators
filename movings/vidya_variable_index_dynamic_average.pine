@@ -1,5 +1,4 @@
-//@version=3
-// Copyright (c) 2018-present, Alex Orekhov (everget)
+// @version=3
 // Variable Index Dynamic Average script may be freely distributed under the terms of GPL-3.0 license.
 study(title="Variable Index Dynamic Average", shorttitle="VIDYA", overlay=true)
 

@@ -1,6 +1,4 @@
-//@version=4
-// Copyright (c) 2018-present, Alex Orekhov (everget)
-// Adaptive Laguerre Filter script may be freely distributed under the terms of the GPL-3.0 license.
+// @version=4
 study("Adaptive Laguerre Filter", shorttitle="ALF", overlay=true)
 
 length = input(title="Length", type=input.integer, defval=14)

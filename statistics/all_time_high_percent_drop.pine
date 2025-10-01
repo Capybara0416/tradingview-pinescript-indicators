@@ -1,5 +1,4 @@
-//@version=3
-// Copyright (c) 2018-present, Alex Orekhov (everget)
+// @version=3
 // All-Time High % Drop script may be freely distributed under the terms of GPL-3.0 license.
 study("All-Time High % Drop", shorttitle="ATH % Drop", precision=2)
 

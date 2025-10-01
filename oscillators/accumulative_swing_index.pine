@@ -1,4 +1,4 @@
-//@version=3
+// @version=3
 // Copyright (c) 2017-present, Alex Orekhov (everget)
 // Accumulative Swing Index script may be freely distributed under the terms of GPL-3.0 license.
 study("Accumulative Swing Index", shorttitle="ASI")

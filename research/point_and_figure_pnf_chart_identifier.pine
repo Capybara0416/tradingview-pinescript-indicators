@@ -1,4 +1,4 @@
-//@version=4
+// @version=4
 // Copyright (c) 2020-present, Alex Orekhov (everget)
 // Point-and-Figure (P&F) Chart Identifier script may be freely distributed under the terms of the GPL-3.0 license.
 study("Point-and-Figure (P&F) Chart Identifier", overlay=true)

@@ -1,6 +1,4 @@
-//@version=4
-// Copyright (c) 2020-present, Alex Orekhov (everget)
-// Range Candles script may be freely distributed under the terms of the GPL-3.0 license.
+// @version=4
 study("Range Candles", overlay=true)
 
 var color bullColor = input(title="Bull Color", defval=#26a69a)

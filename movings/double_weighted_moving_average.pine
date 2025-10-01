@@ -1,4 +1,4 @@
-//@version=3
+// @version=3
 // Copyright (c) 2019-present, Alex Orekhov (everget)
 // Double Weighted Moving Average script may be freely distributed under the terms of the GPL-3.0 license.
 study("Double Weighted Moving Average", shorttitle="DWMA", overlay=true)

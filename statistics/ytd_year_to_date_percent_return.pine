@@ -1,4 +1,4 @@
-//@version=4
+// @version=4
 // Copyright (c) 2019-present, Alex Orekhov (everget)
 // Year-to-Date (YTD) % Return script may be freely distributed under the terms of GPL-3.0 license.
 study("Year-to-Date (YTD) % Return", shorttitle="YTD % Return", precision=2)

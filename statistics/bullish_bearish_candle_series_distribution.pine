@@ -1,4 +1,4 @@
-//@version=4
+// @version=4
 // Copyright (c) 2020-present, Alex Orekhov (everget)
 // Bullish/Bearish Candle Series Distribution script may be freely distributed under the terms of GPL-3.0 license.
 study("Bullish/Bearish Candle Series Distribution")

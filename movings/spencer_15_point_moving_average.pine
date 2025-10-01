@@ -1,5 +1,4 @@
-//@version=4
-// Copyright (c) 2018-present, Alex Orekhov (everget)
+// @version=4
 // Spencer 15-Point Moving Average script may be freely distributed under the terms of the GPL-3.0 license.
 study("Spencer 15-Point Moving Average", shorttitle="SPMA 15", overlay=true)
 

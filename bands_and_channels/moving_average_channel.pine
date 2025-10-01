@@ -1,6 +1,4 @@
-//@version=4
-// Copyright (c) 2017-present, Alex Orekhov (everget)
-// Moving Average Channel script may be freely distributed under the terms of the GPL-3.0 license.
+// @version=4
 study("Moving Average Channel", shorttitle="MAC", overlay=true)
 
 upperSrc = input(title="Upper Source", type=input.source, defval=high)

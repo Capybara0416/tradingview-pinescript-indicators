@@ -1,4 +1,4 @@
-//@version=4
+// @version=4
 // Copyright (c) 2020-present, Alex Orekhov (everget)
 // US Treasury Yields script may be freely distributed under the terms of GPL-3.0 license.
 study("US Treasury Yields", format=format.price)
